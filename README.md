@@ -3,10 +3,10 @@
 
 mysql database
 root
-pwd: root1909
+pwd: r***1***
 
 usr:
-pwd: user1909
+pwd: u******9
 
 
 
