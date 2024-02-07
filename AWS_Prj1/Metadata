@@ -1,13 +1,13 @@
-database name: aws_wordpress
+## Site Configuration Details
 
-user created;
-usermame: aws_user passwd: aws_user1
-
-Wordpress Site Details:
-
+Database Name: aws_wordpress
+User Credentials:
+Username: aws_user
+Password: bZjBybYa3NNAQVYmALgBQg==
+WordPress Site Details:
 Site Title: Personal Website
 Username: NileshNN
-passwd: 3KYYOshkiWw2#zr5^D
+Password: QjDmUnxQ0ASyYASRzoTsLdJZWXoGPF1jxaudP2Ggqh8=
 
 
 key= M***3**1
