@@ -1,17 +1,62 @@
-# AWS-Project-1
- Deploy WordPress to an Amazon EC2 instance (Amazon Linux or Red Hat Enterprise Linux and Linux, macOS, or Unix)
+## Deploying WordPress to an Amazon EC2 Instance
 
-mysql database
-root
-pwd: r***1***
+This project provides instructions and resources for deploying WordPress to an Amazon EC2 instance. The deployment is targeted for Amazon Linux or Red Hat Enterprise Linux and can be followed on Linux, macOS, or Unix-based systems.
 
-usr:
-pwd: u******9
+## Overview
 
+WordPress is a popular content management system (CMS) that allows users to create websites, blogs, and online stores. Amazon EC2 (Elastic Compute Cloud) is a web service that provides resizable compute capacity in the cloud.
 
+This project demonstrates how to set up a virtual server on Amazon EC2 and deploy a WordPress site on it. It includes step-by-step instructions for:
 
-wordpress
-Admin --> nilesh
-Password --> nil***9
+- Launching an EC2 instance
+- Installing necessary software and dependencies
+- Configuring the web server and database
+- Installing and configuring WordPress
+
+## Services Used
+
+Amazon EC2 (Elastic Compute Cloud)
+
+Amazon EC2 is a web service that provides resizable compute capacity in the cloud. It allows users to launch virtual servers, known as instances, and run applications on them.
+
+In this project, we use Amazon EC2 to launch a virtual server where we'll host the WordPress site. EC2 provides flexibility, scalability, and control over the computing resources.
+
+Amazon Linux or Red Hat Enterprise Linux
+
+Amazon EC2 offers various operating system options for instances. We'll choose Amazon Linux or Red Hat Enterprise Linux (RHEL) for this project. Both are popular choices for hosting web applications on AWS.
+
+WordPress
+
+WordPress is a free and open-source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. It powers millions of websites worldwide and offers a user-friendly interface for managing website content.
+
+We'll deploy WordPress on the EC2 instance to create a dynamic and customizable website.
+
+Instructions
+
+Follow the step-by-step instructions provided in the [deployment guide](deployment_guide.md) to deploy WordPress to an Amazon EC2 instance.
+
+Prerequisites
+
+Before starting the deployment process, ensure you have the following:
+
+- An AWS account with necessary permissions to create and manage EC2 instances
+- AWS CLI (Command Line Interface) installed and configured on your local machine (optional but recommended)
+- Basic understanding of web servers, databases, and WordPress
+
+Support
+
+If you encounter any issues or have questions about the deployment process, feel free to open an issue in this repository or reach out to the project maintainers for assistance.
+
+Contributors
+
+Nilesh Nerlekar
+
+License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
+
+Acknowledgments
+
+Special thanks to the AWS documentation team and the WordPress community for their valuable resources and support.
 
 
