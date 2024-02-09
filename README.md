@@ -1,8 +1,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-
 ## Deploying WordPress to an Amazon EC2 Instance
+
+PROJECT ARCHITECTURE
+
+
+![Architecture](https://github.com/Nilesh-ui-art/AWS-Project-1-EC2-Wordpress/assets/78231085/25098583-9575-454e-9769-2bb98640159e)
 
 This project provides instructions and resources for deploying WordPress to an Amazon EC2 instance. The deployment is targeted for Amazon Linux or Red Hat Enterprise Linux and can be followed on Linux, macOS, or Unix-based systems.
 
